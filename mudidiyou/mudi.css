@@ -1,0 +1,175 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height: 45px;
+	background-color: #333333;
+}
+.headera{
+   	width:1428px;
+   	height:45px;
+   	margin:0 auto;
+}
+
+.header1{
+	width:250px;
+	height:20px;
+	float:right;
+	margin-top: 15px;
+	margin-right:35px;
+	font-size:14px;
+	font-family: 微软雅黑; 
+}
+.zuida{
+	width:1428px;
+	height:1910px;
+	margin:0 auto;
+	background-color: #f5f5f5;
+}
+.nav{
+	height:200px;
+	width:1428px;
+	margin: 0 auto;
+}
+.nav1{
+	width:180px;
+	height:175px;
+	margin-top:20px;
+	margin-left: 110px;
+	float:left;
+}
+.nav2{
+	width:150px;
+	height:120px;
+	margin-left: 50px;
+	padding-top: 70px;
+	float:left;
+}
+.nav3{
+	width:665px;
+	height:150px;
+	float:left;
+	margin-left: 225px;
+	
+}
+.nav3a{
+	width:150px;
+	height:105px;
+	margin-top:60px;
+	float:left;
+}
+.xingxi{
+	width:905px;
+	height:1500px;
+	float:left;
+}
+.xingxi1{
+	width:900px;
+	height:210px;
+	margin-left:110px;
+	margin-top:7px;
+	background-color: #fff;
+}
+.a{
+	width:175px;
+	height:30px;
+	font-size: 18px;
+	font-family: 微软雅黑;
+	margin-left:20px; 
+	margin-top: 5px;
+	padding-left: 10px;
+	float:left;
+	color:#666666;
+	background-color:#f5f5f5;
+}
+.b{
+	width:90px;
+	height:95px;
+	margin-left: 40px;
+	margin-top: 25px;
+	float:left;
+}
+.c{
+	width:200px;
+	height:95px;
+	margin-top: 25px;
+	float:left;
+	margin-left: 30px;
+}
+.d{
+	width:900px;
+	height:30px;
+	margin-left: 40px;
+	float:left;
+}
+
+
+.xingxi2{
+	width:900px;
+	height:460px;
+	margin-left:110px;
+	margin-top:7px;
+	background-color: #fff;
+}
+
+.xingxi3{
+	width:900px;
+	height:460px;
+	margin-top:7px;
+	margin-left:110px;
+	background-color: #fff;
+}
+.xingxi4{
+	width:500px;
+	height:70px;
+	margin:0 auto;
+	margin-top:90px;
+}
+.xingxi5{
+	width:290px;
+	height:40px;
+	float:left;
+	color:#fff;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #e8420a;
+}
+.xingxi6{
+	width:500px;
+	height:70px;
+	margin:0 auto;
+}
+
+.xingxi0{
+	margin-right:100px;
+	width:285px;
+	height:330px;
+	float:right;
+	border-style: solid;
+	border-width:1px;
+	border-color: #1c5080;
+}
+.xingxi7{
+	width:240px;
+	height:40px;
+	float:left;
+	color:#fff;
+	margin-left:20px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #e8420a;
+}
+.di{
+	height:77px;
+	border-top-style: solid;
+	border-width:1px;
+	border-top-color: #1c5080;
+	text-align:center;
+}
